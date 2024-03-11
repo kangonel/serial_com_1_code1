@@ -1,6 +1,6 @@
 # serial_com_1_code1
 
-//#code 1
+//#1
 
 void setup(){
 Serial.begin(9600);
